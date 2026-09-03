@@ -1,72 +1,23 @@
-# 📘 Prelim Final Exam
+<img width="1414" height="2000" alt="ACTIVITY 1 - GE 4120_CABANTUG" src="https://github.com/user-attachments/assets/6c1845c0-4ebd-4cc3-a627-7e7efe5809b3" /><img width="1414" height="2000" alt="ACTIVITY 1 - GE 4120_CABANTUG" src="https://github.com/user-attachments/assets/f1c286dc-7d65-4cc0-b533-e3e4e162cc01" /># Prelim Final Exam
 
-![Status](https://img.shields.io/badge/status-completed-brightgreen)
-![Course](https://img.shields.io/badge/course-Civil%20Engineering-blue)
-![Year](https://img.shields.io/badge/year-3rd%20Year-orange)
+**Name:** Nathaniel Cabantug
+**Course/Year:** BS Civil Engineering — 3rd Year
 
-## 👤 Author
-**Nathaniel Cabantug**
-3rd Year — BS Civil Engineering
+## Description
+This repository contains my three (3) activities for the Prelim Final Exam.
 
-## 📝 Description
-This repository contains my three (3) activities submitted for the **Prelim Final Exam**. Each activity showcases a different design/task completed as part of the coursework requirements.
+## Activity 1 — [Title]
+[Short description of the activity]
 
----
+![Activity 1](![Uploading ACTIVITY 1 - GE 4120_CABANTUG.png…]()
+)
 
-## 📂 Activities
+## Activity 2 — [Title]
+[Short description of the activity]
 
-### 1️⃣ Activity 1 — *[Title of Activity 1]*
-> Brief description of what this activity covers.
+![Activity 2](assets/activity2.png)
 
-**Preview:**
-`![Activity 1 Preview](assets/activity1.png)`
+## Activity 3 — [Title]
+[Short description of the activity]
 
-📄 [View Activity 1](./activity-1/)
-
----
-
-### 2️⃣ Activity 2 — *[Title of Activity 2]*
-> Brief description of what this activity covers.
-
-**Preview:**
-`![Activity 2 Preview](assets/activity2.png)`
-
-📄 [View Activity 2](./activity-2/)
-
----
-
-### 3️⃣ Activity 3 — *[Title of Activity 3]*
-> Brief description of what this activity covers.
-
-**Preview:**
-`![Activity 3 Preview](assets/activity3.png)`
-
-📄 [View Activity 3](./activity-3/)
-
----
-
-## 🛠️ Tools Used
-- [ ] AutoCAD
-- [ ] SketchUp
-- [ ] Microsoft Word / Excel
-- [ ] *(edit this list based on what you actually used)*
-
-## 📁 Folder Structure
-```
-prelim-final-exam/
-├── activity-1/
-│   └── ...
-├── activity-2/
-│   └── ...
-├── activity-3/
-│   └── ...
-├── assets/
-│   └── (images/screenshots)
-└── README.md
-```
-
-## 📌 Notes
-Add any remarks, instructions from your professor, or grading criteria here.
-
----
-⭐ Submitted for **Prelim Final Exam** requirement.
+![Activity 3](assets/activity3.png)
