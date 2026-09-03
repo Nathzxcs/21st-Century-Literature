@@ -6,8 +6,8 @@
 ## Description
 This repository contains my three (3) activities for the Prelim Final Exam.
 
-## Activity 1 — [Title]
-[Short description of the activity]
+## Activity 1 — [Presentation Design Principle]
+
 
 ![Activity 1](assets/activity1.png)
 
